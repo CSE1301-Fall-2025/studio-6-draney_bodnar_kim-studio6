@@ -20,6 +20,7 @@ public class IterativeMethods {
 		return sum;
 	}
 
+	// .5^1 + .5^2 + .5^3 .... + .5^n
 	/**
 	 * @param p first operand
 	 * @param q second operand
